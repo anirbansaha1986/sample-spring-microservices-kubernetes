@@ -1,0 +1,3 @@
+resources:
+  - https://github.com/piomin/sample-spring-microservices-kubernetes//k8s?ref=master
+  - mongo-configmap.yaml
